@@ -1,0 +1,9 @@
+# Ignore specific files
+CHANGELOG.md
+LICENSE.md
+
+# Ignore the entire pb_data directory and its contents
+pb_data/
+
+# Ignore the pocketbase directory
+pocketbase/
